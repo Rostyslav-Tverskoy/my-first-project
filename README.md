@@ -1,4 +1,3 @@
 # my-first-project
 
-Test
-Testx2
+Test Testx2
